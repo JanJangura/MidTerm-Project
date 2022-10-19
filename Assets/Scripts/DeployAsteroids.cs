@@ -8,7 +8,7 @@ public class DeployAsteroids : MonoBehaviour
     public GameObject asteroidPrefab;
     // This is used to tell our function how often we want to spawn asteroids
     public float respawnTime = 1.0f;
-    private Vector2 screenBounds;
+    private Vector2 screenBounds; // ALEX SAVE
     // Start is called before the first frame update
     void Start()
     {
