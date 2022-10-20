@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Asteroid : MonoBehaviour
 {
+
     // This tells our speed how fast we want the object to move
     public float speed = 10.0f;
     private Rigidbody2D rb;
@@ -30,6 +31,23 @@ public class Asteroid : MonoBehaviour
         {
             // This removes our game object from the scene
             Destroy(this.gameObject);
+            
+        }
+
+        
+
+    
+
+    }
+    // This is so our Bullets can destroy our asteroids on impact
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        // we use tag Bullet so the game will know what object we want to destroy our asteroids
+        if (collision.gameObject.tag == ("Bullet"))
+        {
+            Destroy(this.gameObject);
+            ScoreManager.instance.AddPoint();
         }
     }
+
 }
