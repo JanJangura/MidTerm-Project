@@ -10,7 +10,7 @@ public class ScoreManager : MonoBehaviour
     public TextMeshProUGUI scoreText;
     public TextMeshProUGUI highscoreText;
    
-
+    //Default score,
     int score = 0;
     int highscore = 0;
 
@@ -21,6 +21,7 @@ public class ScoreManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        //This display the points and highscore on the screen
         highscore = PlayerPrefs.GetInt("highscore", 0);
         scoreText.text = score.ToString() + "POINTS";
         highscoreText.text = "HIGHSCORE:" + highscore.ToString();
@@ -33,6 +34,7 @@ public class ScoreManager : MonoBehaviour
     }
     public void AddPoint()
     {
+        //This is so our game will add points and highscore into the system meaning plus 1
         score += 1;
         scoreText.text = score.ToString() + "POINTS";
         if (highscore < score)
