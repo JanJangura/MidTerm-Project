@@ -23,7 +23,7 @@ public class ScoreManager : MonoBehaviour
     {
         //This display the points and highscore on the screen
         highscore = PlayerPrefs.GetInt("highscore", 0);
-        scoreText.text = score.ToString() + "POINTS";
+        scoreText.text = "Points: " + score.ToString();
         highscoreText.text = "HIGHSCORE:" + highscore.ToString();
     }
 
@@ -36,7 +36,7 @@ public class ScoreManager : MonoBehaviour
     {
         //This is so our game will add points and highscore into the system meaning plus 1
         score += 1;
-        scoreText.text = score.ToString() + "POINTS";
+        scoreText.text = "Points: " + score.ToString();
         if (highscore < score)
         PlayerPrefs.SetInt("highscore", score);
     }
