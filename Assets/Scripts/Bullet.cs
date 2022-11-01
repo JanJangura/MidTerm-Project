@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Bullet : MonoBehaviour
 {
+    
     //bullet speed
     public float speed = 500.0f;
     //when the bullet disappear if missed an object
@@ -26,6 +27,7 @@ public class Bullet : MonoBehaviour
    // this is so the bullet can get detroyed on impact
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        
        Destroy(this.gameObject);
     }
 }

@@ -146,5 +146,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0d70babd0cd34f47acb0aed79c566b6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  BulletSounds: {fileID: 0}
   speed: 2000
   maxLifetime: 10
