@@ -6,6 +6,7 @@ using TMPro;
 
 public class ScoreManager : MonoBehaviour
 {
+    public AudioSource Hi;
     public static ScoreManager instance; 
     public TextMeshProUGUI scoreText;
     public TextMeshProUGUI highscoreText;
@@ -36,6 +37,7 @@ public class ScoreManager : MonoBehaviour
     {
         //This is so our game will add points and highscore into the system meaning plus 1
         score += 1;
+        Hi.Play();
         scoreText.text = "Points: " + score.ToString();
         if (highscore < score)
         PlayerPrefs.SetInt("highscore", score);

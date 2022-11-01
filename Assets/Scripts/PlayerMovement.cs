@@ -12,6 +12,7 @@ public class PlayerMovement : MonoBehaviour
     private bool isDead;
 
     public AudioSource DeathSound;
+    public AudioSource BulletSound;
 
     
    
@@ -41,6 +42,7 @@ public class PlayerMovement : MonoBehaviour
         transform.position = pos;
         if (Input.GetKeyDown(KeyCode.Space) || Input.GetMouseButtonDown(0))
         {
+            BulletSound.Play();
             Shoot();
         }
 

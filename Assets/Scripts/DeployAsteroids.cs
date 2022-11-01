@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class DeployAsteroids : MonoBehaviour
 {
+   
     // The is creating a reference for our Asteroid prefab
     public GameObject asteroidPrefab;
     // This is used to tell our function how often we want to spawn asteroids
