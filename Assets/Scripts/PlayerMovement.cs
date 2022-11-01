@@ -14,8 +14,10 @@ public class PlayerMovement : MonoBehaviour
     public AudioSource DeathSound;
     public AudioSource BulletSound;
 
-    
-   
+    // Particle System
+    public ParticleSystem explosionParticle;
+
+
 
 
     // Update is called once per frame
@@ -63,6 +65,7 @@ public class PlayerMovement : MonoBehaviour
           this.gameObject.SetActive(false);
             DeathSound.Play();
             Destroy(this.gameObject);
+            Instantiate(explosionParticle, transform.position, Quaternion.identity);
             gameManager.gameOver();
             isDead = true;
         }
