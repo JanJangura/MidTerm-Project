@@ -1,0 +1,2664 @@
+fileFormatVersion: 2
+guid: 8ae63f561f01a9a49973a6e8c564c524
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EXPLOSIONS!
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 438
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f506b190ec0c043876cfb75c27c193
+      internalID: 652561393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 432
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2fe408af80453428f27d803ebfbf3c
+      internalID: 1749992624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 426
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c279a49159fa5d4b8fab0c7ccc21acc
+      internalID: 1700469369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 421
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25feb551ebcb57b40a58e107ab3018d7
+      internalID: -1702769042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 417
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3545d3d1a1d3b4640854aa331e41b000
+      internalID: -921628844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_5
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 411
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed19629e0ca6c754ca2b8f0b486c8b71
+      internalID: 383721854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 406
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be16a1ff289f3b94dba6b2db10565da6
+      internalID: 862426277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_7
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 401
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31dbe50f95fa9b4888d6b4ddf19c639
+      internalID: 273201113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 395
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85fee346a320ca489ffa67f391400cf
+      internalID: -1982989893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_9
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 391
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e864dc2235bb6f04bbcbd3faa06f8140
+      internalID: 1947475800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_10
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 386
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfa8bb59b99e704d879a8a9f4af0e83
+      internalID: 1114557253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_11
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 381
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd3794f729accb4c8e728d478d97a4e
+      internalID: 748370766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_12
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 376
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9a2b8071c298e4a9e30e7f5ef720de
+      internalID: 1212902918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_13
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 372
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a82de03618038b479fc613e23cabab8
+      internalID: -938597649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_14
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 368
+        width: 91
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61b7a71a0dd2cc48a77832d665830fe
+      internalID: 243860499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_15
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 364
+        width: 95
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2826e9ab4850e3d479c000517d17c7ef
+      internalID: -914490486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 267
+        width: 99
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8e6158c3cd92d4cb010acd82b11e53
+      internalID: 1587831603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 311
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9017f683ba849bc4ba265483872dc4dc
+      internalID: -1018196879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 262
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986a8f2f517d00e49b06f9a9437536ff
+      internalID: 558062641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 308
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e529e1d352178d4fa89409fd43acc02
+      internalID: 842831125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_20
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 257
+        width: 98
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52498d419a3c894499ff997b7e16b51
+      internalID: -1241657518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_21
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 307
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8191deeb59ed194478c135c5f529cb6f
+      internalID: 325282089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_22
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 254
+        width: 101
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbe6ef0a352aed49bc812a4a943b995
+      internalID: -1941900574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_23
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 306
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb798f9f446a394e95ba4de3f16c754
+      internalID: 773920575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_24
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 252
+        width: 105
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25ebc0b4ea94024083cc04d11a52fb1
+      internalID: 848988434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_25
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 304
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc8723e48e016e458df48bad795c773
+      internalID: 1881589206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_26
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 248
+        width: 106
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091ac1580825de84296d4d7daa18627a
+      internalID: -725923664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_27
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 303
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bd05bc4cd464e48ac1d5b1ac78b648
+      internalID: 669881117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_28
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 245
+        width: 109
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30df90b3c8b202041a0d1c98249add75
+      internalID: 1476513012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_29
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 301
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96df26ae9ed0f1b40a2244afed1b6fbb
+      internalID: -1602511262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_30
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 242
+        width: 111
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebbb9088c0fd23479f143bee8bda2b7
+      internalID: 395379859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_31
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 123
+        width: 109
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7441484af012c6e4f95f585c1867d02b
+      internalID: -1594342946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_32
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 121
+        width: 111
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056f187215d20624ea1b57dbeed04f97
+      internalID: 513929833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_33
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 119
+        width: 111
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486c876698cce3941aecacd92e4c3a52
+      internalID: 381330490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_34
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 118
+        width: 111
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afe42f4eae6e384482d80bca8bd6d8b
+      internalID: 16115432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_35
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 119
+        width: 101
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7636987a1deafa443a9a2b15371678b8
+      internalID: -1518277314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_36
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 123
+        width: 102
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0a735b06991984eae7feecf7cbb35a
+      internalID: -247099261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_37
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 203
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92b248135721cb45bedb997f2a98b19
+      internalID: -329102662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_38
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 217
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17faf629a442134f9b86624933d1192
+      internalID: -288492368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_39
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 230
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7163600e65c55f4c8196c35201a162c
+      internalID: 205384729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 179
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ab419d758af6f448c3adc1ad03d888
+      internalID: -413488168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_41
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 178
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda8c1e1abab2f54d8dd9cfc77d7de94
+      internalID: 1931202319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_42
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 177
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2e565bf9d8d3442b626a34fe2053ff
+      internalID: 262513798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_43
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 176
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9271dd6eec93e434fa519b2c9d9d3317
+      internalID: 1755247657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_44
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 176
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a26a577fff8d284fb8fa406fa838b46
+      internalID: 248825534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_45
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 174
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6935efdebc1f36439d91e43e2c9a0ca
+      internalID: -1017783210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_46
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 175
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7d1630bbe595d4692339f0b8333767
+      internalID: 712757445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_47
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 173
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfd62f6c5af5df4f9dd497e5ff81c66
+      internalID: 1275163278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_48
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 175
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdf0a9d6e39a8a4596ef84e604697a7
+      internalID: -1736383977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_49
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 123
+        width: 97
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6270f6a19219d7741a4f861cfeee1fdc
+      internalID: -1529468131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_50
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 173
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b1cd92e10ba3d48aa9456113888be1
+      internalID: 598692551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_51
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 141
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a3a96054ef8f743809aeeefe7cd745
+      internalID: -2140830707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_52
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 118
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a247f6ad55ef5143af2bbfe6ca76afc
+      internalID: -356897797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_53
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 117
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d965d5e34e61204ca3c8cd6a00189d8
+      internalID: 180017200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_54
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 117
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b21818ba7d9c8d40a5a80b6d4733fba
+      internalID: 1055350770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_55
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 7
+        width: 98
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f13cfaa72e14844a5a6454a21f5b58
+      internalID: -242247582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_56
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 87
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d95298da8a8db940a6a7bb854bb5520
+      internalID: 2005868583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_57
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 104
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20af0ac94cba5fa45a48b4cc91d8e987
+      internalID: 2131001118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_58
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 102
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c186e3c425ca06445bad34deb186328c
+      internalID: 682316012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_59
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 7
+        width: 98
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9887db49d98ff3a4483ca2448250fc12
+      internalID: 1879963892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_60
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 87
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28ae2718b6dac64891026882e382982
+      internalID: -1136435015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_61
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 104
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3703d96b7f65dd74e9355d1f596937cb
+      internalID: 1944682291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 102
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b3a7eceee0ecc49b602db5860c8038
+      internalID: 1425357252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_63
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 12
+        width: 98
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba900bb3357c9a4bb5f167c5bd173de
+      internalID: -710974133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_64
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 92
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18929432de244f243a18fe049748f8fd
+      internalID: -400599778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_65
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 93
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fb3785fd0f4514589998006845a7e4
+      internalID: -211542444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_66
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 12
+        width: 94
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e94666626217046afc8defb9423479
+      internalID: 1706351215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_67
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 92
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddbefd90fd8bac498e83137ea41217d
+      internalID: -1857171422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_68
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 11
+        width: 94
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2f4c2d951bad64dbbc19b4f542f932
+      internalID: -137421976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_69
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 105
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fd5427d2ac7ff42b96f31c95b5bcf0
+      internalID: -1615918981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_70
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 92
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce6999aada6c22428e1e54bbb7b3a73
+      internalID: -513765684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_71
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 95
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e6093ae6c223240821d9e4eb130d67
+      internalID: -564578071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_72
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 100
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050438df0e211fb429808ea43e54ab99
+      internalID: 1525616857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_73
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 96
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c99e20368a04b4ab768a95047f2515
+      internalID: 511310788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_74
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 97
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca88d4a01d6d2047a1d7a95b759e59c
+      internalID: 1436891105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_75
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 102
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64833ce5d2ec42d4bb838d4fe17695db
+      internalID: -205870766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_76
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 96
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c34549ed91bb674bb3908af8f32af8d
+      internalID: -1029279735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_77
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 98
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599a7d8f5e731444bac89e015ebb4836
+      internalID: 515340774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_78
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 77
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dfae6f7eb3c514cab9f4fd99f2dda2
+      internalID: -1816903724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_79
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 76
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72039ee9c4f83b2419c4fa95d68cd345
+      internalID: -809424257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_80
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 41
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44bee1659fdcfb44a30d8c9e32a7fe1
+      internalID: 1338310521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_81
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 78
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcc8cb461743dc4aaeb0154c362b9c6
+      internalID: 1055864303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_82
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 73
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5bb0547ffa60747ba9f621c36f4f20
+      internalID: 1618882517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_83
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 78
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c1378884c30b249823226239198beb
+      internalID: -440116443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_84
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 92
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337f343077cdae046b7604a7224dc396
+      internalID: 1761120892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_85
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 80
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563cd70d0a2c58542a6e9e5722b55c6b
+      internalID: -849835071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_86
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 78
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9d8b30dbce7d743b66862553c4c90f
+      internalID: 1621693146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_87
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 92
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707496ed11e6e1a42899ebe5ba925659
+      internalID: -1735479445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_88
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 43
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49bd650ae6b47c4bb2256cbb8f2f812
+      internalID: 1392780572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_89
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 67
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bcd407ba3739e49819af652f7fb846
+      internalID: 1513929663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_90
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 80
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f81e0f66c2b8448bf5a56b0dd5a3f8
+      internalID: 777083388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_91
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 60
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d7d4881db7264419c42cd41b7b5e57
+      internalID: 134782060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_92
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 36
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4005b93ba3c944cae0d3e1c541a3c3
+      internalID: -13977474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_93
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 37
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61acf630f969f642b961bc8ce69b7a4
+      internalID: 2005563962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_94
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 60
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446077dcdc8c1bb4ca34b5822b481290
+      internalID: 1844060039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_95
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 37
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb18e76309cea2d4f90dd05c150d610d
+      internalID: 110842333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_96
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 43
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8a2b908e5f6e34da05524202be4a9d
+      internalID: -369733181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_97
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 49
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd0a7406e88a9445ad341f0bd076cfd
+      internalID: 162863943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_98
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 37
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167bbd44b4fa0f74aa099ab87c0f2c82
+      internalID: -76547661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_99
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 37
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756a8cc49afe7354e942a59f3e2e265c
+      internalID: 421232151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_100
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 42
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796b39fa30925e94486b60085df97820
+      internalID: 784543177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_101
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 42
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae20ee81108badd46b6346813622675b
+      internalID: -1631025634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_102
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 41
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3125616515ee24d818e652c8ff25d1
+      internalID: 1397162667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_103
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 30
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649e55bafc7219349907210a47b7b80f
+      internalID: 1911359280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_104
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 32
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adb19e913c8f5e47a8638da5e6135ff
+      internalID: -839227007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_105
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 32
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e7f049ccfdee446986cfd4f3ad7b56
+      internalID: -2089580590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_106
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 24
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6e4a1286cbe564daa6412fb4b2078a
+      internalID: 742444520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_107
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 26
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6208688b04104449e23eaf6efdbdac
+      internalID: 2001759754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_108
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 6
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728a09ad82c8af143a5f65b2f749d2cd
+      internalID: -1945416581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_109
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 11
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dde9263fe84815479071bf22b27e68f
+      internalID: -2073113136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_110
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 13
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c2cb8c6b554494b80627172d74219d
+      internalID: 533950049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_111
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 13
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479c44522a518994598f43125cffa39e
+      internalID: 729136410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_112
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafb1d2f70d9dfe468f343ae35a12fc6
+      internalID: 131452940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_113
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dfcf24210630c438dbcadc3cd04998
+      internalID: -1873781019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 437-4374771_royalty-free-game-art-explosion-sprite-file-png_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 887
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24fa1f7bacaf924dad97591c36df49f
+      internalID: -894326663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 605e9c34b3784f74eaf82e499b914db7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_57: 2131001118
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_33: 381330490
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_1: 1749992624
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_3: -1702769042
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_19: 842831125
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_37: -329102662
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_84: 1761120892
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_98: -76547661
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_55: -242247582
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_24: 848988434
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_48: -1736383977
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_74: 1436891105
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_79: -809424257
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_60: -1136435015
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_52: -356897797
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_71: -564578071
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_43: 1755247657
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_53: 180017200
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_100: 784543177
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_45: -1017783210
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_25: 1881589206
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_97: 162863943
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_50: 598692551
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_39: 205384729
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_63: -710974133
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_102: 1397162667
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_41: 1931202319
+      EXPLOSIONS!: 652561393
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_7: 273201113
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_72: 1525616857
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_94: 1844060039
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_99: 421232151
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_14: 243860499
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_58: 682316012
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_51: -2140830707
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_64: -400599778
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_91: 134782060
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_66: 1706351215
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_59: 1879963892
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_78: -1816903724
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_15: -914490486
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_89: 1513929663
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_17: -1018196879
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_12: 1212902918
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_10: 1114557253
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_32: 513929833
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_56: 2005868583
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_103: 1911359280
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_46: 712757445
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_109: -2073113136
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_9: 1947475800
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_27: 669881117
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_21: 325282089
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_67: -1857171422
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_76: -1029279735
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_35: -1518277314
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_2: 1700469369
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_87: -1735479445
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_101: -1631025634
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_23: 773920575
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_95: 110842333
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_96: -369733181
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_28: 1476513012
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_85: -849835071
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_18: 558062641
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_114: -894326663
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_62: 1425357252
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_93: 2005563962
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_106: 742444520
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_105: -2089580590
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_65: -211542444
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_75: -205870766
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_54: 1055350770
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_69: -1615918981
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_88: 1392780572
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_5: 383721854
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_16: 1587831603
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_68: -137421976
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_61: 1944682291
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_77: 515340774
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_83: -440116443
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_81: 1055864303
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_73: 511310788
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_47: 1275163278
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_111: 729136410
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_36: -247099261
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_26: -725923664
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_6: 862426277
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_4: -921628844
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_70: -513765684
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_13: -938597649
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_8: -1982989893
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_104: -839227007
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_90: 777083388
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_22: -1941900574
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_42: 262513798
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_30: 395379859
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_108: -1945416581
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_40: -413488168
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_92: -13977474
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_82: 1618882517
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_20: -1241657518
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_11: 748370766
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_38: -288492368
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_29: -1602511262
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_49: -1529468131
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_86: 1621693146
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_107: 2001759754
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_110: 533950049
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_80: 1338310521
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_44: 248825534
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_112: 131452940
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_31: -1594342946
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_34: 16115432
+      437-4374771_royalty-free-game-art-explosion-sprite-file-png_113: -1873781019
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

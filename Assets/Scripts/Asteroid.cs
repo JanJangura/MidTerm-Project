@@ -11,6 +11,9 @@ public class Asteroid : MonoBehaviour
     private Rigidbody2D rb;
     // This is for our screenbounds caculation
     private Vector2 screenBounds;
+
+    // Particle System
+    public ParticleSystem explosionParticle;
     
 
     // Start is called before the first frame update
@@ -48,8 +51,11 @@ public class Asteroid : MonoBehaviour
         // we use tag Bullet so the game will know what object we want to destroy our asteroids
         if (collision.gameObject.tag == ("Bullet"))
         {
-           
+            
             Destroy(this.gameObject);
+            // We'll instantiate particles by passing in our particile variable, the position of our game object, and then the  
+            // current rotation of our game object.
+            Instantiate(explosionParticle, transform.position, Quaternion.identity);
             ScoreManager.instance.AddPoint();
             
         }

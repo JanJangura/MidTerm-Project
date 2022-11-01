@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657844, g: 0.49641222, b: 0.57481694, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -145,6 +145,18 @@ PrefabInstance:
       value: 'QuitButton '
       objectReference: {fileID: 0}
     - target: {fileID: 4951470642295537490, guid: d8a95e23c3e0cf348b9db9d897b658ec, type: 3}
+      propertyPath: m_Colors.m_NormalColor.a
+      value: 0.4117647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4951470642295537490, guid: d8a95e23c3e0cf348b9db9d897b658ec, type: 3}
+      propertyPath: m_Colors.m_PressedColor.a
+      value: 0.74509805
+      objectReference: {fileID: 0}
+    - target: {fileID: 4951470642295537490, guid: d8a95e23c3e0cf348b9db9d897b658ec, type: 3}
+      propertyPath: m_Colors.m_SelectedColor.a
+      value: 0.7294118
+      objectReference: {fileID: 0}
+    - target: {fileID: 4951470642295537490, guid: d8a95e23c3e0cf348b9db9d897b658ec, type: 3}
       propertyPath: m_Colors.m_SelectedColor.b
       value: 0.17639542
       objectReference: {fileID: 0}
@@ -155,6 +167,10 @@ PrefabInstance:
     - target: {fileID: 4951470642295537490, guid: d8a95e23c3e0cf348b9db9d897b658ec, type: 3}
       propertyPath: m_Colors.m_SelectedColor.r
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4951470642295537490, guid: d8a95e23c3e0cf348b9db9d897b658ec, type: 3}
+      propertyPath: m_Colors.m_HighlightedColor.a
+      value: 0.69411767
       objectReference: {fileID: 0}
     - target: {fileID: 4951470642295537490, guid: d8a95e23c3e0cf348b9db9d897b658ec, type: 3}
       propertyPath: m_Colors.m_HighlightedColor.b
@@ -262,11 +278,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4951470642295537491, guid: d8a95e23c3e0cf348b9db9d897b658ec, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 573
+      value: -19
       objectReference: {fileID: 0}
     - target: {fileID: 4951470642295537491, guid: d8a95e23c3e0cf348b9db9d897b658ec, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -408
+      value: -261.031
       objectReference: {fileID: 0}
     - target: {fileID: 4951470642295537491, guid: d8a95e23c3e0cf348b9db9d897b658ec, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -5534,12 +5550,28 @@ PrefabInstance:
       value: OptionsButton
       objectReference: {fileID: 0}
     - target: {fileID: 4951470642295537490, guid: d8a95e23c3e0cf348b9db9d897b658ec, type: 3}
+      propertyPath: m_Colors.m_NormalColor.a
+      value: 0.4117647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4951470642295537490, guid: d8a95e23c3e0cf348b9db9d897b658ec, type: 3}
+      propertyPath: m_Colors.m_PressedColor.a
+      value: 0.7176471
+      objectReference: {fileID: 0}
+    - target: {fileID: 4951470642295537490, guid: d8a95e23c3e0cf348b9db9d897b658ec, type: 3}
+      propertyPath: m_Colors.m_SelectedColor.a
+      value: 0.7607843
+      objectReference: {fileID: 0}
+    - target: {fileID: 4951470642295537490, guid: d8a95e23c3e0cf348b9db9d897b658ec, type: 3}
       propertyPath: m_Colors.m_SelectedColor.g
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4951470642295537490, guid: d8a95e23c3e0cf348b9db9d897b658ec, type: 3}
       propertyPath: m_Colors.m_SelectedColor.r
       value: 0.46196127
+      objectReference: {fileID: 0}
+    - target: {fileID: 4951470642295537490, guid: d8a95e23c3e0cf348b9db9d897b658ec, type: 3}
+      propertyPath: m_Colors.m_HighlightedColor.a
+      value: 0.69411767
       objectReference: {fileID: 0}
     - target: {fileID: 4951470642295537490, guid: d8a95e23c3e0cf348b9db9d897b658ec, type: 3}
       propertyPath: m_Colors.m_HighlightedColor.b
@@ -5647,11 +5679,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4951470642295537491, guid: d8a95e23c3e0cf348b9db9d897b658ec, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 573
+      value: -19
       objectReference: {fileID: 0}
     - target: {fileID: 4951470642295537491, guid: d8a95e23c3e0cf348b9db9d897b658ec, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -237
+      value: -90.031006
       objectReference: {fileID: 0}
     - target: {fileID: 4951470642295537491, guid: d8a95e23c3e0cf348b9db9d897b658ec, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -5884,6 +5916,22 @@ PrefabInstance:
       value: StartButton
       objectReference: {fileID: 0}
     - target: {fileID: 4951470642295537490, guid: d8a95e23c3e0cf348b9db9d897b658ec, type: 3}
+      propertyPath: m_Colors.m_NormalColor.a
+      value: 0.4117647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4951470642295537490, guid: d8a95e23c3e0cf348b9db9d897b658ec, type: 3}
+      propertyPath: m_Colors.m_PressedColor.a
+      value: 0.68235296
+      objectReference: {fileID: 0}
+    - target: {fileID: 4951470642295537490, guid: d8a95e23c3e0cf348b9db9d897b658ec, type: 3}
+      propertyPath: m_Colors.m_SelectedColor.a
+      value: 0.6392157
+      objectReference: {fileID: 0}
+    - target: {fileID: 4951470642295537490, guid: d8a95e23c3e0cf348b9db9d897b658ec, type: 3}
+      propertyPath: m_Colors.m_HighlightedColor.a
+      value: 0.6509804
+      objectReference: {fileID: 0}
+    - target: {fileID: 4951470642295537490, guid: d8a95e23c3e0cf348b9db9d897b658ec, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 1
       objectReference: {fileID: 0}
@@ -5977,11 +6025,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4951470642295537491, guid: d8a95e23c3e0cf348b9db9d897b658ec, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 573
+      value: -19
       objectReference: {fileID: 0}
     - target: {fileID: 4951470642295537491, guid: d8a95e23c3e0cf348b9db9d897b658ec, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -66.969
+      value: 80
       objectReference: {fileID: 0}
     - target: {fileID: 4951470642295537491, guid: d8a95e23c3e0cf348b9db9d897b658ec, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x

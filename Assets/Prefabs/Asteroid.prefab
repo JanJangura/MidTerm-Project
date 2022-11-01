@@ -146,5 +146,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5470bac196aac4a4d912631cb2c49a10, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  AsteroidsDeath: {fileID: 0}
   speed: 20
+  explosionParticle: {fileID: 8691483158666477103, guid: 1d293c509d15aa34b8e2afa68b3ec50a, type: 3}
