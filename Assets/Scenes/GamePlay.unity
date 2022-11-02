@@ -626,7 +626,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gameManager: {fileID: 307744088}
   bulletPrefab: {fileID: 8542215657426100446, guid: 672c522b709b8d9458eedce06082d9db, type: 3}
-  speed: 20
+  speed: 25
   DeathSound: {fileID: 1178521327}
   BulletSound: {fileID: 32950470}
   explosionParticle: {fileID: 7675069964458375609, guid: fe1d14e8ac48aaa4d92f413ed31d8b47, type: 3}
@@ -676,7 +676,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: -0.13653398}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -687,7 +687,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 5, y: 5}
+  m_Size: {x: 5, y: 4.726932}
   m_EdgeRadius: 0
 --- !u!1 &116607931
 GameObject:
@@ -1317,6 +1317,7 @@ GameObject:
   - component: {fileID: 370900228}
   - component: {fileID: 370900227}
   - component: {fileID: 370900230}
+  - component: {fileID: 370900231}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -1404,6 +1405,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   asteroidPrefab: {fileID: 4256069314991719505, guid: 96a1c05a31df32b4080b5b6a192b496c, type: 3}
   respawnTime: 1
+--- !u!114 &370900231
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 370900226}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f823f6c969fac824c95daf9076339e81, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  asteroidPrefab: {fileID: 5548881401321607184, guid: c251469f939bef2468b3f0692ac9ddf6, type: 3}
+  respawnTime: 3
 --- !u!1 &489116824
 GameObject:
   m_ObjectHideFlags: 0

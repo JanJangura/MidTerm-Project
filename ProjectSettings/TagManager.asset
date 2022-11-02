@@ -7,6 +7,7 @@ TagManager:
   - Bullet
   - Asteriod
   - Asteroid
+  - LargeAsteroids
   layers:
   - Default
   - TransparentFX

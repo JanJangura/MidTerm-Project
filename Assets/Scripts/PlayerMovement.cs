@@ -59,7 +59,7 @@ public class PlayerMovement : MonoBehaviour
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.tag == "Asteroid")
+        if (collision.gameObject.tag == "Asteroid" || collision.gameObject.tag == "LargeAsteroids")
         {
            
           this.gameObject.SetActive(false);
